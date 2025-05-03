@@ -1,0 +1,61 @@
+train: 34129
+vali: 11425
+test: 11425
+Epoch: 1, train_loss: 0.356, vali_loss: 0.151, best_score: 0.151, time_spend: 9.538618326187134
+Updating learning rate to 4.147995783958166e-06
+Epoch: 2, train_loss: 0.280, vali_loss: 0.132, best_score: 0.132, time_spend: 9.517329931259155
+Updating learning rate to 4.591070521163098e-06
+Epoch: 3, train_loss: 0.256, vali_loss: 0.125, best_score: 0.125, time_spend: 12.465721607208252
+Updating learning rate to 5.326491995236255e-06
+Epoch: 4, train_loss: 0.243, vali_loss: 0.123, best_score: 0.123, time_spend: 9.848675012588501
+Updating learning rate to 6.349725236277868e-06
+Epoch: 5, train_loss: 0.233, vali_loss: 0.121, best_score: 0.121, time_spend: 9.494215488433838
+Updating learning rate to 7.654460485717921e-06
+Epoch: 6, train_loss: 0.226, vali_loss: 0.120, best_score: 0.120, time_spend: 9.499484062194824
+Updating learning rate to 9.232652105385623e-06
+Epoch: 7, train_loss: 0.222, vali_loss: 0.119, best_score: 0.119, time_spend: 12.075417518615723
+Updating learning rate to 1.1074568190864783e-05
+Epoch: 8, train_loss: 0.219, vali_loss: 0.120, best_score: 0.119, time_spend: 9.520346879959106
+Updating learning rate to 1.316885058319476e-05
+Epoch: 9, train_loss: 0.216, vali_loss: 0.120, best_score: 0.119, time_spend: 9.535070419311523
+Updating learning rate to 1.5502584908855415e-05
+Epoch: 10, train_loss: 0.214, vali_loss: 0.119, best_score: 0.119, time_spend: 12.60338544845581
+Updating learning rate to 1.806138021613527e-05
+Epoch: 11, train_loss: 0.211, vali_loss: 0.119, best_score: 0.119, time_spend: 9.534317970275879
+Updating learning rate to 2.0829457716805565e-05
+Epoch: 12, train_loss: 0.208, vali_loss: 0.121, best_score: 0.119, time_spend: 9.539658308029175
+Updating learning rate to 2.3789748085875986e-05
+Epoch: 13, train_loss: 0.205, vali_loss: 0.121, best_score: 0.119, time_spend: 12.228205442428589
+Updating learning rate to 2.6923996719433387e-05
+Epoch: 14, train_loss: 0.202, vali_loss: 0.121, best_score: 0.119, time_spend: 9.791298866271973
+Updating learning rate to 3.021287630149266e-05
+Epoch: 15, train_loss: 0.199, vali_loss: 0.124, best_score: 0.119, time_spend: 9.5639066696167
+Updating learning rate to 3.363610598571669e-05
+Epoch: 16, train_loss: 0.196, vali_loss: 0.123, best_score: 0.119, time_spend: 9.547858238220215
+Updating learning rate to 3.717257645707274e-05
+Epoch: 17, train_loss: 0.193, vali_loss: 0.124, best_score: 0.119, time_spend: 12.642750024795532
+Updating learning rate to 4.08004801022336e-05
+Epoch: 18, train_loss: 0.190, vali_loss: 0.125, best_score: 0.119, time_spend: 9.555439710617065
+Updating learning rate to 4.4497445486028815e-05
+Epoch: 19, train_loss: 0.186, vali_loss: 0.127, best_score: 0.119, time_spend: 9.641094207763672
+Updating learning rate to 4.8240675304698384e-05
+Epoch: 20, train_loss: 0.183, vali_loss: 0.128, best_score: 0.119, time_spend: 12.21818208694458
+Updating learning rate to 5.2007086965261054e-05
+Epoch: 21, train_loss: 0.181, vali_loss: 0.128, best_score: 0.119, time_spend: 9.500576972961426
+Updating learning rate to 5.5773454924116216e-05
+Epoch: 22, train_loss: 0.178, vali_loss: 0.129, best_score: 0.119, time_spend: 9.541383743286133
+Updating learning rate to 5.95165539071495e-05
+Epoch: 23, train_loss: 0.175, vali_loss: 0.129, best_score: 0.119, time_spend: 12.32801342010498
+Updating learning rate to 6.321330212817643e-05
+Epoch: 24, train_loss: 0.173, vali_loss: 0.126, best_score: 0.119, time_spend: 9.736147403717041
+Updating learning rate to 6.684090362256924e-05
+Epoch: 25, train_loss: 0.170, vali_loss: 0.128, best_score: 0.119, time_spend: 9.53193712234497
+Updating learning rate to 7.037698881836747e-05
+Epoch: 26, train_loss: 0.168, vali_loss: 0.124, best_score: 0.119, time_spend: 9.530998229980469
+Updating learning rate to 7.379975247804219e-05
+Epoch: 27, train_loss: 0.165, vali_loss: 0.129, best_score: 0.119, time_spend: 12.413339853286743
+Updating learning rate to 7.70880881602968e-05
+Epoch: 28, train_loss: 0.163, vali_loss: 0.127, best_score: 0.119, time_spend: 9.514921426773071
+Updating learning rate to 8.02217183727475e-05
+early stopped with best_mse:0.119
+test_mse:0.164, test_mae: 0.254
